@@ -1,0 +1,4 @@
+.gradle/
+.idea/
+postgres-data/
+build/
